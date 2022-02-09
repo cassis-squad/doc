@@ -20,6 +20,3 @@
 ### Lidar 🔴
 [Lidar lib](https://pypi.org/project/lidar/)
 [Lidar Tutorial](https://blog.gishub.org/tutorial-for-the-lidar-python-package)
-
-### Yolo 🟣
-[YOLO Site](https://pjreddie.com/darknet/yolo/)
