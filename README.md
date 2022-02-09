@@ -4,7 +4,7 @@
 * [Main Site](https://github.com/cassis-squad/Cassis_Squad)
 * [About Us](https://github.com/cassis-squad/about-us)
 * [src](https://github.com/cassis-squad/src)
-* [Arduino code](https://github.com/cassis-squad/about-us)
+* [Arduino code](https://github.com/cassis-squad/arduino)
 
 
 ## Ideas
