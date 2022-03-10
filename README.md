@@ -13,9 +13,9 @@
 
 ## Tecnologies
 
-### Jetson 🟢
-[Nvidia Jetson #1](https://docs.nvidia.com/jetson/)
-[Nvidia Jetson #2](https://docs.nvidia.com/jetson/l4t/)
+### Raspberry 🥝
+[Raspberry #1 (SO)](https://dietpi.com/#downloadinfo)
+[Raspberry #2 (Rasp --> Arduino)](https://pypi.org/project/pyserial/)
 
 ### Lidar 🔴
 [Lidar lib](https://pypi.org/project/lidar/)
