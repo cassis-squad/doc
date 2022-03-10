@@ -14,7 +14,7 @@
 ## Tecnologies
 
 ### Raspberry 🥝
-[Raspberry #1 (SO)](https://dietpi.com/#downloadinfo)
+[Raspberry #1 (SO)](https://dietpi.com/#downloadinfo) <br>
 [Raspberry #2 (Rasp --> Arduino)](https://pypi.org/project/pyserial/)
 
 ### Lidar 🔴
